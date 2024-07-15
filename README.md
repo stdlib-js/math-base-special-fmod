@@ -202,6 +202,7 @@ double stdlib_base_fmod( const double x, const double y );
 
 ```c
 #include "stdlib/math/base/special/fmod.h"
+#include <stdlib.h>
 #include <stdio.h>
 
 int main( void ) {
