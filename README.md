@@ -60,7 +60,7 @@ where `x` is the **dividend** and `y` is the **divisor**.
 ## Usage
 
 ```javascript
-import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@deno/mod.js';
+import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@v0.1.0-deno/mod.js';
 ```
 
 #### fmod( x, y )
@@ -100,7 +100,7 @@ v = fmod( NaN, NaN );
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
 import round from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-round@deno/mod.js';
-import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@deno/mod.js';
+import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@v0.1.0-deno/mod.js';
 
 var x;
 var y;
