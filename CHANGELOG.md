@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-10-27)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`60522bf`](https://github.com/stdlib-js/stdlib/commit/60522bfc0b5574d348301e788400178156731024) - **docs:** fix operator [(#3039)](https://github.com/stdlib-js/stdlib/pull/3039) _(by Gunj Joshi)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.1.0">
 
 ## 0.1.0 (2024-07-28)
