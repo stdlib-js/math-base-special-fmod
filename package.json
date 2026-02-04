@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/math-base-special-fmod",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Modulus function.",
   "license": "Apache-2.0",
   "author": {
@@ -46,13 +46,13 @@
     "@stdlib/constants-float64-high-word-sign-mask": "^0.2.1",
     "@stdlib/constants-float64-high-word-significand-mask": "^0.2.2",
     "@stdlib/constants-float64-min-base2-exponent": "^0.2.2",
-    "@stdlib/math-base-napi-binary": "^0.3.1",
+    "@stdlib/math-base-napi-binary": "^0.3.2",
     "@stdlib/number-float64-base-from-words": "^0.2.2",
     "@stdlib/number-float64-base-to-words": "^0.2.2",
     "@stdlib/utils-library-manifest": "^0.2.3"
   },
   "devDependencies": {
-    "@stdlib/console-log-each-map": "github:stdlib-js/console-log-each-map#main",
+    "@stdlib/console-log-each-map": "^0.1.0",
     "@stdlib/math-base-assert-is-nan": "^0.2.2",
     "@stdlib/random-array-discrete-uniform": "^0.2.1",
     "@stdlib/random-array-uniform": "^0.2.1",
