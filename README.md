@@ -60,7 +60,7 @@ where `x` is the **dividend** and `y` is the **divisor**.
 ## Usage
 
 ```javascript
-import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@deno/mod.js';
+import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@v0.1.1-deno/mod.js';
 ```
 
 #### fmod( x, y )
@@ -100,7 +100,7 @@ v = fmod( NaN, NaN );
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@deno/mod.js';
-import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@deno/mod.js';
+import fmod from 'https://cdn.jsdelivr.net/gh/stdlib-js/math-base-special-fmod@v0.1.1-deno/mod.js';
 
 var opts = {
     'dtype': 'float64'
