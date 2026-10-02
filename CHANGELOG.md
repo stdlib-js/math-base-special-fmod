@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-01)
+## Unreleased (2026-10-02)
 
 <section class="commits">
 
@@ -12,6 +12,8 @@
 
 <details>
 
+-   [`1a78936`](https://github.com/stdlib-js/stdlib/commit/1a789367328a127b029ac01287a730c649884c0c) - **docs:** update Markdown equation elements _(by stdlib-bot)_
+-   [`7a67bd3`](https://github.com/stdlib-js/stdlib/commit/7a67bd3e5cb80df7208ba3a63e118e9bdf6b5afa) - **docs:** update Markdown equation SVGs _(by stdlib-bot)_
 -   [`4d37c8b`](https://github.com/stdlib-js/stdlib/commit/4d37c8bc26822cc1c8a6947bae1c718d2737661f) - **docs:** fix equation _(by Athan Reines)_
 -   [`59c9969`](https://github.com/stdlib-js/stdlib/commit/59c9969a580e74428505ba91634607f110ec71bf) - **bench:** refactor to use string interpolation in `math/base/special` [(#11388)](https://github.com/stdlib-js/stdlib/pull/11388) _(by Karan Anand)_
 -   [`35566af`](https://github.com/stdlib-js/stdlib/commit/35566af0add64775e60422fd16e50e1bec3947e7) - **docs:** fix C examples in READMEs [(#11229)](https://github.com/stdlib-js/stdlib/pull/11229) _(by anee3, Athan Reines)_
